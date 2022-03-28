@@ -1,3 +1,2 @@
----- MADE BY CURT POGI ----
----- NEW DUPE METHOD ----
+@BuildIntoGames - Works at 8-BIT UPDATE. (NewDupe Method PSX)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/chaudfleur/DupePetSimX/main/DupeNewMethodUpdated"))()
